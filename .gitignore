@@ -5,4 +5,8 @@ lib
 .DS_Store
 .idea
 db.json
-.txt
+errorLog.txt
+log.html
+logKuber.txt
+output.xml
+report.html
