@@ -1,0 +1,13 @@
+2021-03-28 02:30:00.498 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-03-29 02:30:00.346 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-03-30 02:30:00.260 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-03-31 02:30:00.242 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-01 02:30:00.240 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-02 02:30:00.280 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-03 02:30:00.360 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-04 02:30:00.300 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-05 02:30:00.624 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-06 02:30:00.286 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-07 02:30:00.430 ERROR 16 --- [   scheduling-1] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-07 13:31:45.632 ERROR 16 --- [  XNIO-1 task-2] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
+2021-04-07 13:41:35.749 ERROR 16 --- [  XNIO-1 task-3] c.w.s.services.TrustRootServiceImpl      : Cannot Fetch Trustroot Store : Destination path "synctrustroot_store" already exists and is not an empty directory
