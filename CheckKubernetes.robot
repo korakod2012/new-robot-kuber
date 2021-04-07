@@ -51,7 +51,7 @@ Get all log from kubernetes then create file
     ${std_output} =    Read       delay=5s
     Append To file      ${CURDIR}/logKuber.txt      ${std_output}
 
-*** comment *** # remove this line will enable below test
+*** comment *** # remove this line will enable below test .
 Log should not contain error of TrustRoot
     Create file     ${CURDIR}/errorLog.txt
     ${response} =       Grep file   ${CURDIR}/logKuber.txt       Cannot Fetch Trustroot
