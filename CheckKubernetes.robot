@@ -7,7 +7,7 @@ Suite Teardown    Close All Connections
 
 *** Variables ***
 ${host}                       10.3.97.36
-${keyfile}                    /Users/kod/Desktop/PrivateKey-finema.pem
+${keyfile}                    /Users/blackip/Desktop/PrivateKey-finema.pem
 ${password}                   P@ssw0rd@1234
 ${userName}                   finema
 ${promptUser}                 finema@d3odbsunm01
